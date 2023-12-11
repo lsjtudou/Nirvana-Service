@@ -20,11 +20,14 @@
     </properties>
 
     <modules>
-        <module>nirvana-web-module</module>
-        <module>nirvana-service-module</module>
-        <module>nirvana-dao-module</module>
         <module>nirvana-common-module</module>
+        <module>nirvana-dao-module</module>
+        <module>nirvana-service-module</module>
+        <module>nirvana-web-module</module>
     </modules>
+
+
+
 
 
 </project>
